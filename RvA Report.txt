@@ -1,0 +1,250 @@
+﻿RvA.swf Movie Report
+---------------------
+
+Preloader SWF Wrapping Content SWF
+----------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1278    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2011-02-21T08:17:06-08:00</xmp:CreateDate> <xmp:MetadataDate>2011-04-18T18:34:19-07:00</xmp:MetadataDate> <xmp:ModifyDate>2011-04-18T18:34:19-07:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:5BDAD2AA236AE0119634FB0ABC0216C5</stRef:instanceID> <stRef:documentID>xmp.did:C9455BD5674AE0118C3CC99717F98C69</stRef:documentID> <stRef:originalDocumentID>xmp.did:0DE3CB24D73DE0119BFAAE21B2A811DB</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:5FDAD2AA236AE0119634FB0ABC0216C5</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:5FDAD2AA236AE0119634FB0ABC0216C5</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:0DE3CB24D73DE0119BFAAE21B2A811DB</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1           9492           9492    Scene 1
+      2        2962243        2971735    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1             48             0                  8369
+
+ActionScript Bytes    Location
+------------------    --------
+              8113    Scene 1:Frame 1
+               256    Scene 1:Frame 2
+
+Binary Data              Bytes         Location
+---------------------    ----------    --------
+Loading Animation SWF          1253    Scene 1:Frame 1
+Content SWF                 2961951    Scene 1:Frame 2
+
+
+Content SWF
+-----------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       996    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2011-02-21T08:17:06-08:00</xmp:CreateDate> <xmp:MetadataDate>2011-04-18T18:33:49-07:00</xmp:MetadataDate> <xmp:ModifyDate>2011-04-18T18:33:49-07:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:5BDAD2AA236AE0119634FB0ABC0216C5</stRef:instanceID> <stRef:documentID>xmp.did:C9455BD5674AE0118C3CC99717F98C69</stRef:documentID> <stRef:originalDocumentID>xmp.did:0DE3CB24D73DE0119BFAAE21B2A811DB</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:5EDAD2AA236AE0119634FB0ABC0216C5</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:5EDAD2AA236AE0119634FB0ABC0216C5</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:0DE3CB24D73DE0119BFAAE21B2A811DB</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1        2988171        2988171    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                224992
+
+Symbol                                                  Shape Bytes    Text Bytes    ActionScript Bytes
+----------------------------------------------------    -----------    ----------    ------------------
+Accessory1                                                      745             0                     0
+Accessory2                                                      735             0                     0
+Accessory3                                                      622             0                     0
+Accessory4                                                      152             0                     0
+Accessory5                                                      157             0                     0
+Accessory6                                                      571             0                     0
+ alien right foot                                                63             0                     0
+alien elite head                                                425             0                     0
+alien juggernaut head                                           572             0                     0
+alien left foot                                                   0             0                     0
+alien soldier head                                              327             0                     0
+AlienBomber                                                     947             0                     0
+AlienElite                                                      585             0                     0
+AlienJuggernaut                                                1199             0                     0
+AlienSoldier                                                    568             0                     0
+AlienSplat                                                      247             0                     0
+soldier body                                                      0             0                     0
+armoryDoneButton                                                500             0                     0
+ConfirmButton                                                    78             0                     0
+EquipButton                                                    1019             0                     0
+nb                                                               70             0                     0
+NoButton                                                         88             0                     0
+TLF-2                                                            89             0                     0
+ok                                                               81             0                     0
+OkButton                                                         88             0                     0
+TLF-3                                                            87             0                     0
+PurchaseButton                                                  925             0                     0
+SALE! Sid’s Protoplasm Boosters 12x for only 300 CR!              0             0                     0
+saleSticker                                                      96             0                     0
+TLF-1                                                           121             0                     0
+yb                                                               69             0                     0
+YesButton                                                       120             0                     0
+CreditCoin                                                      276             0                     0
+shine                                                            49             0                     0
+Health                                                          389             0                     0
+ExplosionCloud                                                  720             0                     0
+Symbol 63                                                        37             0                     0
+Symbol 64                                                        37             0                     0
+Symbol 65                                                        37             0                     0
+gateLeft                                                         30             0                     0
+gateRight                                                         0             0                     0
+InterfaceBar                                                     95             0                     0
+MusicButton                                                     842             0                     0
+MuteButton                                                      451             0                     0
+FadeToBlack                                                      49             0                     0
+rbtn                                                             78             0                     0
+ReplayButton                                                    380             0                     0
+TLF-0                                                           381             0                     0
+RoboDeath                                                     11324             0                     0
+visor                                                            72             0                     0
+head                                                            547             0                     0
+torso accents                                                   115             0                     0
+shoulder accents                                                154             0                     0
+roboLeftFoot                                                     90             0                     0
+roboRightFoot                                                    91             0                     0
+Bullet                                                          156             0                     0
+Missile                                                         224             0                     0
+SplashRadius                                                     60             0                     0
+hitBox                                                           40             0                     0
+playerMissile                                                    39             0                     0
+roboBody                                                       1228             0                     0
+RoboPC                                                            0             0                     0
+<Path>_1                                                        220             0                     0
+<Path>_1_0                                                       30             0                     0
+<Path>_1_1                                                        0             0                     0
+Bounds                                                          393             0                     0
+Level1Base                                                     1072             0                     0
+Level1WallTops                                                  277             0                     0
+playableArea1                                                     0             0                     0
+<Path>                                                          401             0                     0
+<Path>_1                                                        220             0                     0
+<Path>_2                                                          0             0                     0
+<Path>_3                                                          0             0                     0
+<Path>_4                                                         30             0                     0
+Bounds                                                          393             0                     0
+Level2Base                                                     4103             0                     0
+Level2WallTops                                                  284             0                     0
+playableArea2                                                     0             0                     0
+block1                                                           69             0                     0
+block2                                                           67             0                     0
+block3                                                           69             0                     0
+block4                                                           57             0                     0
+block5                                                           70             0                     0
+Bounds                                                          393             0                     0
+Level3Base                                                      906             0                     0
+Level3WallTops                                                  139             0                     0
+playableArea3                                                     0             0                     0
+<Path>                                                          401             0                     0
+Bounds                                                          393             0                     0
+gateBottom                                                        0             0                     0
+gateTop                                                          28             0                     0
+Level4Base                                                      846             0                     0
+Level4WallTops                                                  270             0                     0
+playableArea4                                                     0             0                     0
+Upgrade1                                                        654             0                     0
+Upgrade2                                                       1505             0                     0
+Upgrade3                                                        212             0                     0
+Upgrade6                                                        231             0                     0
+<Clip Group 0>                                                  946             0                     0
+Primary1                                                        304             0                     0
+Primary2                                                        404             0                     0
+Primary3                                                        650             0                     0
+Primary4                                                        554             0                     0
+Secondary1                                                      205             0                     0
+Secondary2                                                      207             0                     0
+Secondary3                                                      109             0                     0
+Secondary4                                                      519             0                     0
+chooseButton                                                    112            72                     0
+credButton                                                      212           192                     0
+instrButton                                                     317           168                     0
+menuBackButton                                                  203           172                     0
+playAliensButton                                                  0             0                     0
+playgameButton                                                  317           204                     0
+playRobotsButton                                                 75             0                     0
+PreloadScreen                                                  3381             0                     0
+Tween 1                                                           0             0                     0
+Tween 2                                                          46             0                     0
+fl.video.FLVPlayback dependency 1                                27             0                     0
+fl.video.FLVPlayback dependency 2                              1097             0                     0
+fl.video.FLVPlayback                                              0             0                     0
+fl.video.Icon                                                     0             0                     0
+
+
+Tweened Shapes: 645 bytes
+
+Font Name                  Bytes         Characters
+-----------------------    ----------    ----------
+MyriadPro-BoldCond Bold         61490     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžƒƠơƯưǺǻǼǽǾǿȘșȚțȜȝȲȳˆˇˉ˘˙˚˛˜˝;΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώЁЂЃЄЅІЇЈЉЊЋЌЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёђѓєѕіїјљњћќўџҐґẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹ‐–—‘’‚“”„†‡•…‰‹›⁄⁴₁₂₃₄₫€ℓ№™Ω℮∂∏∑∕√∞∫≠≤≥
+Neuropol                        19980     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«­®¯°²³´µ¶¸»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĂăĄąĆćČčĎďĐĘęĚěıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžˆˇˉ˘˙˚˛˜˝μ–—‘’‚“”„†‡•…‹›€™
+Verdana-Bold Bold               87211     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƏƒƠơƯưǺǻǼǽǾǿȘșȚțˆˇˉ˘˙˚˛˜˝;΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёђѓєѕіїјљњћќѝўџѸѹѼѽ҇ҐґҒғҖҗҚқҜҝҢңҨҩҮүҰұҲҳҸҹҺһҼҽҾҿդր฿ẀẁẂẃẄẅẞẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹ‒–—―‗‘’‚‛“”„‟†‡•… ‰′″‴‹›‼‾⁄⁴ⁿ₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵℅ℓ№℠™Ω℮⅛⅜⅝⅞∂∏∑∕√∞∫≠≡≤≥─│┌┐└┘□●♪ꜛꜜꜝꜞꜟꞈ꞉꞊Ꞌꞌ￥￦
+Neuropol                        38146     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«­®¯°²³´µ¶¸»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĂăĄąĆćČčĎďĐĘęĚěıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžˆˇˉ˘˙˚˛˜˝μ–—‘’‚“”„†‡•…‹›€™
+Moonmonkey                      11158     ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+SegoeUI                        266755     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄƅƆƇƈƉƊƋƌƍƎƏƐƑƒƓƔƕƖƗƘƙƚƛƜƝƞƟƠơƢƣƤƥƦƧƨƩƪƫƬƭƮƯưƱƲƳƴƵƶƷƸƹƺƻƼƽƾƿǀǁǂǃǄǅǆǇǈǉǊǋǌǍǎǏǐǑǒǓǔǕǖǗǘǙǚǛǜǝǞǟǠǡǢǣǤǥǦǧǨǩǪǫǬǭǮǯǰǱǲǳǴǵǶǷǸǹǺǻǼǽǾǿȀȁȂȃȄȅȆȇȈȉȊȋȌȍȎȏȐȑȒȓȔȕȖȗȘșȚțȜȝȞȟȠȡȢȣȤȥȦȧȨȩȪȫȬȭȮȯȰȱȲȳȴȵȶȷȸȹȺȻȼȽȾȿɀɁɂɃɄɅɆɇɈɉɊɋɌɍɎɏɐɑɔɛɡɪɵʃʊˆˇˉˊˋˍː˘˙˚˛˜˝ʹ͵ͺͻͼͽ;΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰϱϲЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҇҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎ؀؁؂؃؋،؍؎؏ؐؑؒؓؔؕ؛؞؟ءآأؤإئابةتثجحخدذرزسشصضطظعغـفقكلمنهوىيًٌٍَُِّْٕٖٜٓٔٗ٘ٙٚٛٝٞ٠١٢٣٤٥٦٧٨٩٪٫٬٭ٮٯٰٱٲٳٴٵٶٷٸٹٺٻټٽپٿڀځڂڃڄڅچڇڈډڊڋڌڍڎڏڐڑڒړڔڕږڗژڙښڛڜڝڞڟڠڡڢڣڤڥڦڧڨکڪګڬڭڮگڰڱڲڳڴڵڶڷڸڹںڻڼڽھڿۀہۂۃۄۅۆۇۈۉۊۋیۍێۏېۑےۓ۔ەۖۗۘۙۚۛۜ۝۞ۣ۟۠ۡۢۤۥۦۧۨ۩۪ۭ۫۬ۮۯ۰۱۲۳۴۵۶۷۸۹ۺۻۼ۽۾ۿ฿ḀḁḂḃḄḅḆḇḈḉḊḋḌḍḎḏḐḑḒḓḔḕḖḗḘḙḚḛḜḝḞḟḠḡḢḣḤḥḦḧḨḩḪḫḬḭḮḯḰḱḲḳḴḵḶḷḸḹḺḻḼḽḾḿṀṁṂṃṄṅṆṇṈṉṊṋṌṍṎṏṐṑṒṓṔṕṖṗṘṙṚṛṜṝṞṟṠṡṢṣṤṥṦṧṨṩṪṫṬṭṮṯṰṱṲṳṴṵṶṷṸṹṺṻṼṽṾṿẀẁẂẃẄẅẆẇẈẉẊẋẌẍẎẏẐẑẒẓẔẕẖẗẘẙẚẛẞẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹἀἁἂἃἄἅἆἇἈἉἊἋἌἍἎἏἐἑἒἓἔἕἘἙἚἛἜἝἠἡἢἣἤἥἦἧἨἩἪἫἬἭἮἯἰἱἲἳἴἵἶἷἸἹἺἻἼἽἾἿὀὁὂὃὄὅὈὉὊὋὌὍὐὑὒὓὔὕὖὗὙὛὝὟὠὡὢὣὤὥὦὧὨὩὪὫὬὭὮὯὰάὲέὴήὶίὸόὺύὼώᾀᾁᾂᾃᾄᾅᾆᾇᾈᾉᾊᾋᾌᾍᾎᾏᾐᾑᾒᾓᾔᾕᾖᾗᾘᾙᾚᾛᾜᾝᾞᾟᾠᾡᾢᾣᾤᾥᾦᾧᾨᾩᾪᾫᾬᾭᾮᾯᾰᾱᾲᾳᾴᾶᾷᾸᾹᾺΆᾼ᾽ι᾿῀῁ῂῃῄῆῇῈΈῊΉῌ῍῎῏ῐῑῒΐῖῗῘῙῚΊ῝῞῟ῠῡῢΰῤῥῦῧῨῩῪΎῬ῭΅`ῲῳῴῶῷῸΌῺΏῼ´῾          ​‌‍‎‏‐‒–—―‗‘’‚‛“”„‟†‡•…  ‪‫‬‭‮ ‰′″‴‹›‼‾⁄⁞ ⁴ⁿ₁₂₃₄₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵℅ℓ№℗™Ω℮⅍ⅎ⅓⅔⅛⅜⅝⅞←↑→↓↔∂∏∑∕√∞∟∩∫∴≠≡≤≥■□▲▼○●♠♣♥ꜗꜘꜙꜚꜛꜜꜝꜞꜟ꜠꜡ꞈ꞉꞊Ꞌꞌﭐﭑﭒﭓﭔﭕﭖﭗﭘﭙﭚﭛﭜﭝﭞﭟﭠﭡﭢﭣﭤﭥﭦﭧﭨﭩﭪﭫﭬﭭﭮﭯﭰﭱﭲﭳﭴﭵﭶﭷﭸﭹﭺﭻﭼﭽﭾﭿﮀﮁﮂﮃﮄﮅﮆﮇﮈﮉﮊﮋﮌﮍﮎﮏﮐﮑﮒﮓﮔﮕﮖﮗﮘﮙﮚﮛﮜﮝﮞﮟﮠﮡﮢﮣﮤﮥﮦﮧﮨﮩﮪﮫﮬﮭﮮﮯﮰﮱﯓﯔﯕﯖﯗﯘﯙﯚﯛﯜﯝﯞﯟﯠﯡﯢﯣﯤﯥﯦﯧﯨﯩﯼﯽﯾﯿﱞﱟﱠﱡﱢ﴾﴿ﷲ﷼ﺀﺁﺂﺃﺄﺅﺆﺇﺈﺉﺊﺋﺌﺍﺎﺏﺐﺑﺒﺓﺔﺕﺖﺗﺘﺙﺚﺛﺜﺝﺞﺟﺠﺡﺢﺣﺤﺥﺦﺧﺨﺩﺪﺫﺬﺭﺮﺯﺰﺱﺲﺳﺴﺵﺶﺷﺸﺹﺺﺻﺼﺽﺾﺿﻀﻁﻂﻃﻄﻅﻆﻇﻈﻉﻊﻋﻌﻍﻎﻏﻐﻑﻒﻓﻔﻕﻖﻗﻘﻙﻚﻛﻜﻝﻞﻟﻠﻡﻢﻣﻤﻥﻦﻧﻨﻩﻪﻫﻬﻭﻮﻯﻰﻱﻲﻳﻴﻵﻶﻷﻸﻹﻺﻻﻼ﻿
+SegoeUI-Bold Bold              265258     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƀƁƂƃƄƅƆƇƈƉƊƋƌƍƎƏƐƑƒƓƔƕƖƗƘƙƚƛƜƝƞƟƠơƢƣƤƥƦƧƨƩƪƫƬƭƮƯưƱƲƳƴƵƶƷƸƹƺƻƼƽƾƿǀǁǂǃǄǅǆǇǈǉǊǋǌǍǎǏǐǑǒǓǔǕǖǗǘǙǚǛǜǝǞǟǠǡǢǣǤǥǦǧǨǩǪǫǬǭǮǯǰǱǲǳǴǵǶǷǸǹǺǻǼǽǾǿȀȁȂȃȄȅȆȇȈȉȊȋȌȍȎȏȐȑȒȓȔȕȖȗȘșȚțȜȝȞȟȠȡȢȣȤȥȦȧȨȩȪȫȬȭȮȯȰȱȲȳȴȵȶȷȸȹȺȻȼȽȾȿɀɁɂɃɄɅɆɇɈɉɊɋɌɍɎɏɐɑɔɛɡɪɵʃʊˆˇˉˊˋˍː˘˙˚˛˜˝ʹ͵ͺͻͼͽ;΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϐϑϒϓϔϕϖϗϘϙϚϛϜϝϞϟϠϡϢϣϤϥϦϧϨϩϪϫϬϭϮϯϰϱϲЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҇҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎ؀؁؂؃؋،؍؎؏ؐؑؒؓؔؕ؛؞؟ءآأؤإئابةتثجحخدذرزسشصضطظعغـفقكلمنهوىيًٌٍَُِّْٕٖٜٓٔٗ٘ٙٚٛٝٞ٠١٢٣٤٥٦٧٨٩٪٫٬٭ٮٯٰٱٲٳٴٵٶٷٸٹٺٻټٽپٿڀځڂڃڄڅچڇڈډڊڋڌڍڎڏڐڑڒړڔڕږڗژڙښڛڜڝڞڟڠڡڢڣڤڥڦڧڨکڪګڬڭڮگڰڱڲڳڴڵڶڷڸڹںڻڼڽھڿۀہۂۃۄۅۆۇۈۉۊۋیۍێۏېۑےۓ۔ەۖۗۘۙۚۛۜ۝۞ۣ۟۠ۡۢۤۥۦۧۨ۩۪ۭ۫۬ۮۯ۰۱۲۳۴۵۶۷۸۹ۺۻۼ۽۾ۿ฿ḀḁḂḃḄḅḆḇḈḉḊḋḌḍḎḏḐḑḒḓḔḕḖḗḘḙḚḛḜḝḞḟḠḡḢḣḤḥḦḧḨḩḪḫḬḭḮḯḰḱḲḳḴḵḶḷḸḹḺḻḼḽḾḿṀṁṂṃṄṅṆṇṈṉṊṋṌṍṎṏṐṑṒṓṔṕṖṗṘṙṚṛṜṝṞṟṠṡṢṣṤṥṦṧṨṩṪṫṬṭṮṯṰṱṲṳṴṵṶṷṸṹṺṻṼṽṾṿẀẁẂẃẄẅẆẇẈẉẊẋẌẍẎẏẐẑẒẓẔẕẖẗẘẙẚẛẞẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹἀἁἂἃἄἅἆἇἈἉἊἋἌἍἎἏἐἑἒἓἔἕἘἙἚἛἜἝἠἡἢἣἤἥἦἧἨἩἪἫἬἭἮἯἰἱἲἳἴἵἶἷἸἹἺἻἼἽἾἿὀὁὂὃὄὅὈὉὊὋὌὍὐὑὒὓὔὕὖὗὙὛὝὟὠὡὢὣὤὥὦὧὨὩὪὫὬὭὮὯὰάὲέὴήὶίὸόὺύὼώᾀᾁᾂᾃᾄᾅᾆᾇᾈᾉᾊᾋᾌᾍᾎᾏᾐᾑᾒᾓᾔᾕᾖᾗᾘᾙᾚᾛᾜᾝᾞᾟᾠᾡᾢᾣᾤᾥᾦᾧᾨᾩᾪᾫᾬᾭᾮᾯᾰᾱᾲᾳᾴᾶᾷᾸᾹᾺΆᾼ᾽ι᾿῀῁ῂῃῄῆῇῈΈῊΉῌ῍῎῏ῐῑῒΐῖῗῘῙῚΊ῝῞῟ῠῡῢΰῤῥῦῧῨῩῪΎῬ῭΅`ῲῳῴῶῷῸΌῺΏῼ´῾          ​‌‍‎‏‐‒–—―‗‘’‚‛“”„‟†‡•…  ‪‫‬‭‮ ‰′″‴‹›‼‾⁄⁞ ⁴ⁿ₁₂₃₄₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵℅ℓ№℗™Ω℮⅍ⅎ⅓⅔⅛⅜⅝⅞←↑→↓↔∂∏∑∕√∞∟∩∫∴≠≡≤≥■□▲▼○●♠♣♥ꜗꜘꜙꜚꜛꜜꜝꜞꜟ꜠꜡ꞈ꞉꞊Ꞌꞌﭐﭑﭒﭓﭔﭕﭖﭗﭘﭙﭚﭛﭜﭝﭞﭟﭠﭡﭢﭣﭤﭥﭦﭧﭨﭩﭪﭫﭬﭭﭮﭯﭰﭱﭲﭳﭴﭵﭶﭷﭸﭹﭺﭻﭼﭽﭾﭿﮀﮁﮂﮃﮄﮅﮆﮇﮈﮉﮊﮋﮌﮍﮎﮏﮐﮑﮒﮓﮔﮕﮖﮗﮘﮙﮚﮛﮜﮝﮞﮟﮠﮡﮢﮣﮤﮥﮦﮧﮨﮩﮪﮫﮬﮭﮮﮯﮰﮱﯓﯔﯕﯖﯗﯘﯙﯚﯛﯜﯝﯞﯟﯠﯡﯢﯣﯤﯥﯦﯧﯨﯩﯼﯽﯾﯿﱞﱟﱠﱡﱢ﴾﴿ﷲ﷼ﺀﺁﺂﺃﺄﺅﺆﺇﺈﺉﺊﺋﺌﺍﺎﺏﺐﺑﺒﺓﺔﺕﺖﺗﺘﺙﺚﺛﺜﺝﺞﺟﺠﺡﺢﺣﺤﺥﺦﺧﺨﺩﺪﺫﺬﺭﺮﺯﺰﺱﺲﺳﺴﺵﺶﺷﺸﺹﺺﺻﺼﺽﺾﺿﻀﻁﻂﻃﻄﻅﻆﻇﻈﻉﻊﻋﻌﻍﻎﻏﻐﻑﻒﻓﻔﻕﻖﻗﻘﻙﻚﻛﻜﻝﻞﻟﻠﻡﻢﻣﻤﻥﻦﻧﻨﻩﻪﻫﻬﻭﻮﻯﻰﻱﻲﻳﻴﻵﻶﻷﻸﻹﻺﻻﻼ﻿
+MyriadPro-BoldCond Bold        114811     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžƒƠơƯưǺǻǼǽǾǿȘșȚțȜȝȲȳˆˇˉ˘˙˚˛˜˝;΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώЁЂЃЄЅІЇЈЉЊЋЌЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёђѓєѕіїјљњћќўџҐґẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹ‐–—‘’‚“”„†‡•…‰‹›⁄⁴₁₂₃₄₫€ℓ№™Ω℮∂∏∑∕√∞∫≠≤≥
+ArcadeRounded                   15346     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~©®ßåƒπ‐‘’“”•™
+
+ActionScript Bytes    Location
+------------------    --------
+            224992    Scene 1:Frame 1
+
+Bitmap                               Compressed    Original      Compression
+---------------------------------    ----------    ----------    -----------
+<Image>_0                                  3044        118584    JPEG Quality=60
+<Image>                                    3485        277528    JPEG Quality=60
+Bitmap 39                                 10915       2581920    JPEG Quality=60
+Bitmap 40                                 10996       2581920    JPEG Quality=60
+Bitmap 41                                 11110       2581920    JPEG Quality=60
+Bitmap 42                                  2726        135200    JPEG Quality=60
+Bitmap 43                                  2008        135200    JPEG Quality=60
+Bitmap 44                                  2237        135200    JPEG Quality=60
+Bitmap 45                                  2641        135200    JPEG Quality=60
+Bitmap 46                                  3289        135200    JPEG Quality=60
+Bitmap 47                                  4296        135200    JPEG Quality=60
+Bitmap 48                                  5260        135200    JPEG Quality=60
+Bitmap 49                                  5912        135200    JPEG Quality=60
+Bitmap 50                                  6110        135200    JPEG Quality=60
+Bitmap 51                                  6083        135200    JPEG Quality=60
+Bitmap 52                                  5768        135200    JPEG Quality=60
+Bitmap 53                                  5486        135200    JPEG Quality=60
+Bitmap 54                                  5080        135200    JPEG Quality=60
+Bitmap 55                                  4521        135200    JPEG Quality=60
+Bitmap 56                                  4097        135200    JPEG Quality=60
+Bitmap 57                                  3559        135200    JPEG Quality=60
+Bitmap 58                                  3001        135200    JPEG Quality=60
+Bitmap 59                                  2522        135200    JPEG Quality=60
+Bitmap 60                                  2056        135200    JPEG Quality=60
+Bitmap 61                                  1504        135200    JPEG Quality=60
+fl.video.FLVPlayback dependency 3          1066                  
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                          Bytes         Format
+--------------------------------    ----------    ------
+ChargeUp                                  2342    11KHz Mono 16 kbps MP3
+KaChing                                   2181    11KHz Mono 16 kbps MP3
+Warp                                      3467    11KHz Mono 16 kbps MP3
+Thud                                       895    11KHz Mono 16 kbps MP3
+Squish                                    1458    11KHz Mono 16 kbps MP3
+Shot                                       815    11KHz Mono 16 kbps MP3
+RoboHit                                   1699    11KHz Mono 16 kbps MP3
+Reload                                    3467    11KHz Mono 16 kbps MP3
+PowerDown                                 4431    11KHz Mono 16 kbps MP3
+Ping3                                     1458    11KHz Mono 16 kbps MP3
+Ping2                                     1458    11KHz Mono 16 kbps MP3
+Ping1                                     1297    11KHz Mono 16 kbps MP3
+Operational                               3788    11KHz Mono 16 kbps MP3
+ExplosiveShot                             4190    11KHz Mono 16 kbps MP3
+Explosion                                 2743    11KHz Mono 16 kbps MP3
+Choir                                     3708    11KHz Mono 16 kbps MP3
+BertycoX - Utopia                       366543    11KHz Mono 16 kbps MP3
+BertycoX - The Signal                   508703    11KHz Mono 16 kbps MP3
+BertycoX - Sunny Day                    422153    11KHz Mono 16 kbps MP3
+BertycoX - Boom Project (Ver. 2)        307235    11KHz Mono 16 kbps MP3
+ArmoryMusic                              42523    11KHz Mono 16 kbps MP3
+
+
+
+
